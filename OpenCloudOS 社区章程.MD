@@ -1,6 +1,6 @@
 OpenCloudOS 社区章程
 
-1 社区愿景、使命和价值 Vision, Mission and Values
+# 1 社区愿景、使命和价值 Vision, Mission and Values
 
 - OpenCloudOS 社区旨在打造中立、全面开放、安全、稳定易用、高性能的Linux服务器操作系统，共建国产操作系统开源技术社区，扩大社区发行版影响力，构建操作系统统一生态。
 - 其项目范围包括服务器操作系统、云原生系统、虚拟化、弹性计算、容器支持等。
@@ -15,15 +15,26 @@ OpenCloudOS社区短期解决CentOS断供替代问题，长期解决国产操作
 OpenCloudOS社区定位为“中立，全面开放，100%开源的Linux国产发行版”； 社区无利益导向，在社区合作的框架下，需求侧伙伴和供应测伙伴均可以不受限制地获取和贡献代码及其他资源。
 
 
-2 会员 Membership
+# 2 会员 Membership
 
 OpenCloudOS社区由A类会员、B类会员、C类会员、最终用户会员以及社区会员构成。
 
 所有会员申请都将由基金会审核其作为 OpenCloudOS 社区会员的厂商、用户、学术与非盈利（包括开源社区）机构的资质认定。
 
+## 社区会员
 
+无论法人、自然人，无论注册地、国籍，只要承诺遵守社区章程、签署贡献者协议和其它规定，均可免费成为OpenCloudOS社区的会员，获得以下便利：
+- 访问和贡献代码、文档、设计
+- 有权参与项目群组织的其他会议和活动
+- 有权获得项目群刊物和技术资料
+- 有权获取项目群兼容性测试指导
 
-A 类会员
+## 最终用户会员
+
+- 有权参与项目群组织的其他会议和活动
+- 有权获得项目群刊物和技术资料
+- 有权获取项目群兼容性测试指导
+## A 类会员
 
 - 有权任命一个OpenCloudOS理事会代表
 - 有权任命理事会下属机构和活动的投票代表
@@ -32,32 +43,19 @@ A 类会员
 - 有权获得项目群刊物和技术资料
 - 有权获取项目群兼容性测试指导
 
-
-B 类会员
-
-- 有权参与项目群组织的其他会议和活动
-- 有权获得项目群刊物和技术资料
-- 有权获取项目群兼容性测试指导
-
-C 类会员
+## B 类会员
 
 - 有权参与项目群组织的其他会议和活动
 - 有权获得项目群刊物和技术资料
 - 有权获取项目群兼容性测试指导
 
-最终用户会员
+## C 类会员
 
 - 有权参与项目群组织的其他会议和活动
 - 有权获得项目群刊物和技术资料
 - 有权获取项目群兼容性测试指导
 
-社区会员
-
-- 有权参与项目群组织的其他会议和活动
-- 有权获得项目群刊物和技术资料
-- 有权获取项目群兼容性测试指导
-
-3 理事会 Governing Board
+# 3 理事会 Governing Board
 
 负责OpenCloudOS社区的战略方向、官宣口径、经费预算以及其它业务督察职责。
 
@@ -71,7 +69,7 @@ C 类会员
 - 监督社区运营的各项活动
 - 募集资金和监督合理使用
 
-理事会构成：
+## 3.1 理事会构成：
 - 会员代表
 - 技术社区代表	
 	= TOC 主席
@@ -79,40 +77,44 @@ C 类会员
 	= SIG协调委员会主席
 	= 经由选举产生的xx名Committers。选举流程由理事会制定。
 
-3.1 官宣与步道委员会
+## 3.2 官宣与步道委员会
 
 负责OpenCloudOS社区的对外宣传，包括但不限于网站、公众号、邮件列表、公共邮箱，以及自办和参加各类活动（meetup、沙龙、会议、展会等）。
 
-4 技术监督委员会 TOC， Technical Oversight Committee
+# 4 技术监督委员会 TOC， Technical Oversight Committee
 
-4.1 项目管理委员会
+## 4.1 项目管理委员会 PMC, Project Management Committee
 
-4.2 SIG协调委员会
+## 4.2 SIG协调委员会
 
-5 最终用户委员会
+# 5 最终用户委员会 End User Committee
 
-5.1 最终用户技术指导委员会 End User Technical Advisory Board
+## 5.1 最终用户技术指导委员会 End User Technical Advisory Board
 
-5.2 用户小组 User Group
+## 5.2 用户小组 User Group
 
-6 投票
+# 6 投票 Voting
 
-7 反垄断导则
+# 7 反垄断导则 Antitrust Guidelines
+【备注】已邀请开放原子基金会的律师团队提供会前念词。
 
-8 行为准则
+# 8 行为准则 Code of Conduct
+所有成员、贡献者、负责人，保证参与此社区的每个人都不受骚扰，不论其年龄、体型、身体条件、民族、性征、性别认同与表现、经验水平、教育程度、社会地位、国籍、相貌、种族、宗教信仰及性取向如何，致力于建设开放、友善、多元、包容、健康的社区环境。
 
-9 预算
+我们的行为准则详情见社区文档《行为准则》，可在此查阅 https://github.com/OpenCloudOS/community/blob/main/Code_of_Conduct.CN.md 。
 
-10 General & Administrative Expenses
+#9 预算 Budget
+
+#10 General & Administrative Expenses
 
 只有当OpenCloudOS社区正式纳入开放原子基金会才有本条款的需要。
 
 社区届理事会时将和基金会协商条款。
 
-11 General Rules and Operations
+# 11 General Rules and Operations
 
-12 知识产权政策
+# 12 知识产权政策  IPR, Intellectual Property Right Policy
 
-13 章程修正条款
+# 13 章程修正条款 Amendments
 
 本章程的修订须由社区理事会三分之二多数赞成，并获得基金会批准才得以生效。
