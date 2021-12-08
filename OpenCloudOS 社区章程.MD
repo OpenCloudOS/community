@@ -101,11 +101,11 @@ OpenCloudOS社区由A类会员、B类会员、C类会员、最终用户会员以
 # 8 行为准则 Code of Conduct
 所有成员、贡献者、负责人，保证参与此社区的每个人都不受骚扰，不论其年龄、体型、身体条件、民族、性征、性别认同与表现、经验水平、教育程度、社会地位、国籍、相貌、种族、宗教信仰及性取向如何，致力于建设开放、友善、多元、包容、健康的社区环境。
 
-我们的行为准则详情见社区文档《行为准则》，可在此查阅 https://github.com/OpenCloudOS/community/blob/main/Code_of_Conduct.CN.md 。
+我们的行为准则详情见社区文档[《行为准则》](https://github.com/OpenCloudOS/community/blob/main/Code_of_Conduct.CN.md) 。
 
-#9 预算 Budget
+# 9 预算 Budget
 
-#10 General & Administrative Expenses
+# 10 General & Administrative Expenses
 
 只有当OpenCloudOS社区正式纳入开放原子基金会才有本条款的需要。
 
