@@ -1,6 +1,6 @@
-OpenCloudOS 社区章程
+# OpenCloudOS 社区章程
 
-# 1 社区愿景、使命和价值 Vision, Mission and Values
+## 1 社区愿景、使命和价值 Vision, Mission and Values
 
 OpenCloudOS 社区旨在打造中立、全面开放、安全、稳定易用、高性能的Linux服务器操作系统，共建国产操作系统开源技术社区，扩大社区发行版影响力，构建操作系统统一生态。其项目范围包括服务器操作系统、云原生系统、虚拟化、弹性计算、容器支持等。
 
@@ -14,7 +14,7 @@ OpenCloudOS社区短期解决CentOS断供替代问题，长期解决国产操作
 OpenCloudOS社区定位为“中立，全面开放，100%开源的Linux国产发行版”； 社区无利益导向，在社区合作的框架下，需求侧伙伴和供应测伙伴均可以不受限制地获取和贡献代码及其他资源。
 
 
-# 2 会员 Membership
+## 2 会员 Membership
 
 无论法人、自然人，无论注册地、国籍，只要承诺遵守社区章程、签署贡献者协议和其它规定，均可免费成为OpenCloudOS社区的会员，获得以下便利：
 - 访问和贡献代码、文档、设计
@@ -30,11 +30,11 @@ OpenCloudOS项目的成功，最终是取决于其广泛应用。因此，最终
 
 
 
-## 社区会员
+### 社区会员
 
 由包括云平台、整机、应用软件、OS、芯片等厂商在内的多家机构作为联合发起单位，成立 OpenCloudOS初始委员会，并派出的代表组成初创工作组，启动OpenCloudOS项目和社区的工作。
 
-### OpenCloudOS创始委员会
+#### OpenCloudOS创始委员会
 
 OpenCloudOS初始委员会的任务包括（但不限于）
 1. 社区章程
@@ -46,7 +46,7 @@ OpenCloudOS初始委员会的任务包括（但不限于）
 
 OpenCloudOS初始委员会在社区理事会正式成立之前暂代理事会职责。理事会成立之时，OpenCloudOS初始委员会完成历史使命，自动解散。
 
-#### 联合发起单位
+##### 联合发起单位
 
 腾讯
 宝德
@@ -62,7 +62,7 @@ Intel
 
 【持续增加中】
 
-#### 初创工作组
+##### 初创工作组
 
 工作方向
 	媒体
@@ -79,7 +79,7 @@ Intel
 	宋可为
 	宁固
 
-## 最终用户会员
+### 最终用户会员
 
 OpenCloudOS的最终用户构成，负责将用户需求和用户体验真实、有效地反馈给社区。
 
@@ -87,7 +87,7 @@ OpenCloudOS的最终用户构成，负责将用户需求和用户体验真实、
 - 有权获得项目群刊物和技术资料
 - 有权获取项目群兼容性测试指导
 
-## 赞助会员
+### 赞助会员
 
 赞助会员的捐赠内容包括但不限于以下内容
 * 每年捐赠 ￥￥￥
@@ -102,13 +102,15 @@ OpenCloudOS的最终用户构成，负责将用户需求和用户体验真实、
 - 有权获得项目群刊物和技术资料
 - 有权获取项目群兼容性测试指导
 
-A 类会员
+#### A 类会员
 
-B 类会员
+#### B 类会员
 
-C 类会员
+#### C 类会员
 
-# 3 理事会 Governing Board
+#### 特殊赞助会员
+
+## 3 理事会 Governing Board
 
 负责OpenCloudOS社区的战略方向、官宣口径、经费预算以及其它业务督察职责。
 
@@ -130,11 +132,11 @@ C 类会员
 	= SIG协调委员会主席
 	= 经由选举产生的xx名项目维护人。选举流程由理事会制定。
 
-## 3.1 官宣与步道委员会
+### 3.1 官宣与步道委员会
 
 负责OpenCloudOS社区的对外宣传，包括但不限于网站、公众号、邮件列表、公共邮箱，以及自办和参加各类活动（meetup、沙龙、会议、展会等）。
 
-# 4 技术监督委员会 TOC， Technical Oversight Committee
+## 4 技术监督委员会 TOC， Technical Oversight Committee
 
 OpenCloudOS社区最高技术决策机构， 并设立项目管理委员会（PMC，Project Management Council)和兴趣小组协调委员会(SIGCC, Special Interests Group Coordination Council)用于项目管理和协调.
 
@@ -155,7 +157,7 @@ TOC的任务
    - 建立本社区的工作模式和流程、发布release、管理安全应急相应
    - 和理事会及其下设机构合作，协调官宣、活动以及其它宣传工作。
 
-## 4.1 项目管理委员会
+### 4.1 项目管理委员会
 
 项目是为实现特定交付目标或成果而成立的，可以独立工作。
 
@@ -176,20 +178,23 @@ OpenCloudOS项目采取项目贡献者自治模式
 
 项目的交付件要进入社区发行范围，可以向技术监督委员会提交申请。
 
-## 4.2 SIG协调委员会
+### 4.2 SIG协调委员会
 
 专注于一个领域的持久和开放的团队，该团队通过定期的任务和活动实现特定的交付目标。
 SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
 任何人都可以提议、参与并作出贡献。
 每个SIG可以由一个或多个理事会成员提出，并至少由另外三个理事会成员附议，交由SIG协调委员会投票通过。
 
-# 5 最终用户委员会 End User Committee
+### 4.3 安全与漏洞应急响应小组
 
-## 5.1 最终用户技术指导委员会 End User Technical Advisory Board
 
-## 5.2 用户小组 User Group
+## 5 最终用户委员会 End User Committee
 
-# 6 投票 Voting
+### 5.1 最终用户技术指导委员会 End User Technical Advisory Board
+
+### 5.2 用户小组 User Group
+
+## 6 投票 Voting
 
 无论是理事会、TOC、项目管理委员会还是SIG协调委员会，都应本着求同存异、协商一致的方式推进工作。
 
@@ -197,23 +202,23 @@ SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
 
 投票过程和结果应保留和公开记录。
 
-# 7 反垄断导则 Antitrust Guidelines
+## 7 反垄断导则 Antitrust Guidelines
 
-# 8 行为准则 Code of Conduct
+## 8 行为准则 Code of Conduct
 
 所有成员、贡献者、负责人，保证参与此社区的每个人都不受骚扰，不论其年龄、体型、身体条件、民族、性征、性别认同与表现、经验水平、教育程度、社会地位、国籍、相貌、种族、宗教信仰及性取向如何，致力于建设开放、友善、多元、包容、健康的社区环境。
 
 我们的行为准则详情见社区文档《行为准则》。
 
-# 9 预算 Budget
+## 9 预算 Budget
 
-# 10 一般和管理开销 General & Administrative Expenses
+## 10 一般和管理开销 General & Administrative Expenses
 
 只有当OpenCloudOS社区正式纳入开放原子基金会才有本条款的需要。
 
 社区理事会届时将和基金会协商条款。
 
-# 11 一般原则和行为 General Rules and Operations
+## 11 一般原则和行为 General Rules and Operations
 
 The Project will:
 1. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of XYZ Foundation Projects and other partner organizations in the open source community; and
@@ -223,10 +228,10 @@ The Project will:
 1. 以专业精神开展本项目的各项工作以维系高凝聚力的社区，同时和 XYZ 基金会的其它项目以及开源社区的其他伙伴组织的保持善意合作和相互尊重； 
 2. 尊重所有商标所有人的权利，包括任何品牌和商标使用指南。
 
-# 12 知识产权政策 IPR, Intellectual Property Right Policy
+## 12 知识产权政策 IPR, Intellectual Property Right Policy
 合作者承认所有新贡献的版权将作为独立的作者作品由版权所有者保留，并且不需要贡献者或版权所有者将版权分配给项目。
 Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
 
-# 13 章程修正条款 Amendments
+## 13 章程修正条款 Amendments
 
 本章程的修订须由社区理事会三分之二多数赞成，并获得基金会批准才得以生效。
