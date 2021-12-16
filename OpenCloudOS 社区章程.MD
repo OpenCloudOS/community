@@ -207,21 +207,24 @@ SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
 
 # 9 预算 Budget
 
-# 10 General & Administrative Expenses
+# 10 一般和管理开销 General & Administrative Expenses
 
 只有当OpenCloudOS社区正式纳入开放原子基金会才有本条款的需要。
 
 社区理事会届时将和基金会协商条款。
 
-# 11 General Rules and Operations
+# 11 一般原则和行为 General Rules and Operations
 
 The Project will:
-i.	engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of OpenAtom Foundation Projects and other partner organizations in the open source community; and
-ii.	respect the rights of all trademark owners, including any branding and trademark usage guidelines.
+1. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of XYZ Foundation Projects and other partner organizations in the open source community; and
+2. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 
+本项目将：
+1. 以专业精神开展本项目的各项工作以维系高凝聚力的社区，同时和 XYZ 基金会的其它项目以及开源社区的其他伙伴组织的保持善意合作和相互尊重； 
+2. 尊重所有商标所有人的权利，包括任何品牌和商标使用指南。
 
 # 12 知识产权政策 IPR, Intellectual Property Right Policy
-
+合作者承认所有新贡献的版权将作为独立的作者作品由版权所有者保留，并且不需要贡献者或版权所有者将版权分配给项目。
 Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
 
 # 13 章程修正条款 Amendments
