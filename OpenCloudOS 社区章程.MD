@@ -1,4 +1,4 @@
-# OpenCloudOS 社区章程
+# OpenCloudOS 社区章程（草案讨论稿）
 
 ## 1 社区愿景、使命和价值 Vision, Mission and Values
 
