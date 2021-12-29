@@ -8,15 +8,15 @@ OpenCloudOS 社区旨在打造中立、全面开放、安全、稳定易用、�
 OpenCloudOS社区致力于Linux国产发行版的自主可控及稳定可靠，完成基础软件从开源上游的开发版本到社区稳定的生产版本的转化，满足行业国产CPU、GPU、数据库、中间件等基础设施的公共需求。
 
 业务价值：
-OpenCloudOS社区短期解决CentOS断供替代问题，长期解决国产操作系统上游供应问题，保障行业应用的基础软件安全供应及可持续健康发展
+OpenCloudOS社区短期解决CentOS断供替代问题，长期解决国产操作系统上游供应问题，保障行业应用的基础软件安全供应及可持续健康发展。
 
 生态价值：
-OpenCloudOS社区定位为“中立，全面开放，100%开源的Linux国产发行版”； 社区无利益导向，在社区合作的框架下，需求侧伙伴和供应测伙伴均可以不受限制地获取和贡献代码及其他资源。
+OpenCloudOS社区定位为“中立，全面开放，100%开源的Linux国产发行版”； 社区无利益导向，在社区合作的框架下，需求侧伙伴和供应侧伙伴均可以不受限制地获取和贡献代码及其他资源。
 
 
 ## 2 会员 Membership
 
-无论法人、自然人，无论注册地、国籍，只要承诺遵守社区章程、签署贡献者协议和其它规定，均可免费成为OpenCloudOS社区的会员，获得以下便利：
+无论法人、自然人，无论注册地、国籍，只要承诺遵守社区章程、签署贡献者协议和其他规定，均可免费成为OpenCloudOS社区的会员，获得以下便利：
 - 访问和贡献代码、文档、设计
 - 有权参与社区组织的会议和活动
 - 有权获得社区刊物和技术资料
@@ -115,7 +115,7 @@ OpenCloudOS的最终用户构成，负责将用户需求和用户体验真实、
 
 ## 3 理事会 Governing Board
 
-负责OpenCloudOS社区的战略方向、官宣口径、经费预算以及其它业务督察职责。
+负责OpenCloudOS社区的战略方向、官宣口径、经费预算以及其他业务督察职责。
 
 理事会不具体参与OpenCloudOS社区的技术研发和决策。
 
@@ -141,14 +141,14 @@ OpenCloudOS的最终用户构成，负责将用户需求和用户体验真实、
 
 ## 4 技术监督委员会 TOC， Technical Oversight Committee
 
-OpenCloudOS社区最高技术决策机构， 并设立项目管理委员会（PMC，Project Management Council)和兴趣小组协调委员会(SIGCC, Special Interests Group Coordination Council)用于项目管理和协调.
+OpenCloudOS社区最高技术决策机构，并设立项目管理委员会（PMC，Project Management Council)和兴趣小组协调委员会(SIGCC, Special Interests Group Coordination Council)用于项目管理和协调。
 
 TOC的组成
 - 主席，由理事会委任
 - 成员
    - 由理事会成员委派的代表，最多 x 人
    - 由PMC组织由各顶级项目推选的代表，最多 x 人
-   - 由SIG协调委员会组织由各SIG推选的代表， 最多 x 人。
+   - 由SIG协调委员会组织由各SIG推选的代表，最多 x 人。
 
 TOC的任务
 - 定期（每月）举行例会；
@@ -157,8 +157,8 @@ TOC的任务
 - 审议SIG的发起、更改或终结；
 - 就如下重大事项进行投票；
    - 委派专员和其它开源社区和标准社区开展合作
-   - 建立本社区的工作模式和流程、发布release、管理安全应急相应
-   - 和理事会及其下设机构合作，协调官宣、活动以及其它宣传工作。
+   - 建立本社区的工作模式和流程、发布release、管理安全应急响应
+   - 和理事会及其下设机构合作，协调官宣、活动以及其他宣传工作。
 
 ### 4.1 项目管理委员会
 
@@ -173,8 +173,8 @@ OpenCloudOS社区的项目依照其成熟度分为
 TOC将设立规则如何引入项目并确定其阶段。
 
 OpenCloudOS项目采取项目贡献者自治模式
-- 项目贡献者（Contributor）是指任何合法向本项目贡献过代码、文档或其它技术文件的自然人。
-- 项目维护人（Maintainer）是指获得了向项目库更新代码、文档和其它技术文件特权的项目贡献者。
+- 项目贡献者（Contributor）是指任何合法向本项目贡献过代码、文档或其他技术文件的自然人。
+- 项目维护人（Maintainer）是指获得了向项目库更新代码、文档和其他技术文件特权的项目贡献者。
 - 自行选举项目组长，任期两个项目发行周期。
 - 自行决定本项目的发行周期。
 - 项目组长不定期发起项目维护人投票。通过简单多数原则可以选出或罢免项目维护人。
@@ -193,8 +193,8 @@ SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
     * 构成: TBD
     
 - TOC制订并维护以下安全响应流程
-    * 安全处理流程， 处理安全问题的过程。
-    * 安全披露信息， 如何报告安全漏洞。
+    * 安全处理流程，处理安全问题的过程。
+    * 安全披露信息，如何报告安全漏洞。
 
 ### 4.4 贡献方法
 
@@ -208,7 +208,7 @@ SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
 - 提交Issue：如果您准备向社区上报Bug或者提交需求，或者为OpenCloudOS社区贡献自己的意见或建议，请在OpenCloudOS社区对应的repo上提交Issue；
     * 提交Issue请参考 Issue提交指南。为了吸引更广泛的注意，您也可以把Issue的链接附在邮件内，通过邮件列表发送给所有人。
     * 参与Issue内的讨论：每个Issue下面可能已经有参与者们的交流和讨论，如果您感兴趣，也可以在评论框中发表自己的意见。
-- 处理的ssue：如果您愿意处理其中的一个issue，可以将它分配给自己。只需要在评论框内输入 /assign或 /assign @yourself，机器人就会将问题分配给您，您的名字将显示在负责人列表里。
+- 处理的Issue：如果您愿意处理其中的一个issue，可以将它分配给自己。只需要在评论框内输入 /assign或 /assign @yourself，机器人就会将问题分配给您，您的名字将显示在负责人列表里。
 
 ##### 贡献代码
 
@@ -315,9 +315,6 @@ UX/UI设计
 
 ## 11 一般原则和行为 General Rules and Operations
 
-The Project will:
-1. engage in the work of the Project in a professional manner consistent with maintaining a cohesive community, while also maintaining the goodwill and esteem of XYZ Foundation Projects and other partner organizations in the open source community; and
-2. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 
 本项目将：
 1. 以专业精神开展本项目的各项工作以维系高凝聚力的社区，同时和 XYZ 基金会的其它项目以及开源社区的其他伙伴组织的保持善意合作和相互尊重； 
@@ -325,7 +322,7 @@ The Project will:
 
 ## 12 知识产权政策 IPR, Intellectual Property Right Policy
 合作者承认所有新贡献的版权将作为独立的作者作品由版权所有者保留，并且不需要贡献者或版权所有者将版权分配给项目。
-Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
+
 
 ## 13 章程修正条款 Amendments
 
