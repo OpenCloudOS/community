@@ -1,5 +1,5 @@
 # SIG申请流程
-![SIG application process](./SIG_application_process.png)
+![SIG application process](SIG_application_process.png)
 
 每个 SIG 都能满足一些基本要求
 - 小组的主题必须与OpenCloudOS或OpenCloudOS使用场景相关；
