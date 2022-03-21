@@ -200,7 +200,7 @@ SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。
 
 #### 代码类贡献
 
-在签署了CLA协议([中文版](./OpenCloudOS%20Community%20CLA.CN.MD)、[English Version](./OpenCloudOS%20Community%20CLA.EN.MD))，贡献者可以找到想参与的项目或兴趣小组，开始自己的社区贡献之旅！社区贡献的方式多种多样。
+在签署了CLA协议([中文版](https://github.com/OpenCloudOS/community/blob/79b1f5b4e55b5945fc29bea5724364d9ec333b9d/Meetings/assets/OpenCloudOS%20Community%20CLA.CN.MD)、[English Version](https://github.com/OpenCloudOS/community/blob/38e2c4375cf82c34e4e7c47752a8140935fc2843/Meetings/assets/OpenCloudOS%20Community%20CLA.EN.MD))，贡献者可以找到想参与的项目或兴趣小组，开始自己的社区贡献之旅！社区贡献的方式多种多样。
 
 ##### 提交和处理Issue
 
