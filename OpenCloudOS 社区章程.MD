@@ -58,7 +58,7 @@ OpenCloudOS 社区按照一致性原则，设立A/B/C/特殊赞助会员以征�
 
 ## 3 理事会 Governing Board
 
-负责OpenCloudOS 社区的战略方向、经费预算、官宣口径以及其他业务督察职责。
+负责OpenCloudOS 社区的战略方向、经费预算、官宣口径以及其他业务督察与发展职责。
 
 理事会不具体参与OpenCloudOS社区的技术研发和决策。
 
@@ -88,10 +88,12 @@ OpenCloudOS 社区按照一致性原则，设立A/B/C/特殊赞助会员以征�
 OpenCloudOS社区最高技术决策机构。
 - TOC可以设立项目管理委员会（PMC，Project Management Council)代为TOC行使发起、管理和协调社区内独立运行项目的权力。
 - TOC可以设立兴趣小组协调委员会(SIGCC, Special Interests Group Coordination Council)代为TOC行使发起、管理和协调社区内特定范围工作的权力。
-- TOC可以邀请特别顾问参与TOC的工作，提供专家意见和建议。顾问不具决策权。
+- TOC可以设立专项工作组（WG，Working Group），就特定题目开展研究，展开工作。
+- TOC可以邀请特别顾问参与TOC的工作，提供专家意见和建议。特别顾问不具决策权。
 
 ### 4.1 TOC的组成
 首届TOC成员由OpenCloudOS初始委员会推选产生。人数不超过15人，任期3年。
+
 TOC主席全面负责和代表OpenCloudOS TOC。
 TOC副主席代表TOC主席负责指定方面的工作。
 TOC秘书由TOC主席任命，负责TOC的日常工作的组织和运行。
@@ -102,21 +104,25 @@ TOC秘书由TOC主席任命，负责TOC的日常工作的组织和运行。
 - 制定和执行社区贡献者激励方案（包括但不限于PTL（Project team lead）、maintainer、committer的认定方案）；
 - 审议独立项目的发起、更改或终止；
 - 审议兴趣小组（SIG）的发起、更改或终结；
-- 就如下重大事项进行投票；
+- 就重大事项进行投票；
    - 委派专员和其它开源社区和标准社区开展合作
-   - 建立本社区的工作模式和流程、发布release、管理安全应急响应
+   - 建立本社区的工作模式和流程、
+   - OpenCloudOS版本发布
+   - 管理安全应急响应
    - 和理事会及其下设机构合作，协调官宣、活动以及其他宣传工作。
 
 ### 4.3 项目管理委员会 PMC
 
-项目是为实现特定交付目标或成果而成立的，可以独立工作。TOC建立项目发起、管理和协调的规则。
+项目是为实现特定交付目标或成果而成立的，可以独立工作。
+
+TOC建立项目发起、管理和协调的规则。TOC建立PMC的构成和工作模式。
 
 项目的交付件要进入社区发行范围，可以向技术监督委员会提交申请。
 
-### 4.4 SIG协调委员会
+### 4.4 兴趣小组协调委员会 SIGCC
 
-兴趣小组专注于一个领域的持久和开放的团队，该团队通过定期的任务和活动实现特定的交付目标。SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为规范CoC。任何人都可以提议、参与并作出贡献。
-SIG的筹建需遵照社区[SIG申请流程](https://github.com/OpenCloudOS/community/blob/main/SIG/SIG%20application%20process.MD)，提供[SIG申请书](https://github.com/OpenCloudOS/community/blob/main/SIG/SIG%20application%20template.MD), 并在TOC或SIGCC例会讨论通过。
+兴趣小组专注于一个领域的持久和开放的团队，该团队通过定期的任务和活动实现特定的交付目标。SIG具有公开透明的程序，要遵循OpenCloudOS社区的行为[规范规范](./Code_of_Conduct.CN.md)。任何人都可以提议、参与并作出贡献。
+SIG的筹建需遵照社区[SIG申请流程](./SIG/SIG%20application%20process.MD)，提供[SIG申请书](./SIG/SIG%20application%20template.MD), 并在TOC或SIGCC例会讨论通过。
 
 ### 4.5 安全与漏洞应急响应小组
 为响应安全事件，TOC特别设立**安全与漏洞应急响应小组**
@@ -129,7 +135,7 @@ SIG的筹建需遵照社区[SIG申请流程](https://github.com/OpenCloudOS/comm
 
 #### 代码类贡献
 
-在签署了CLA协议([中文版](https://github.com/OpenCloudOS/community/blob/79b1f5b4e55b5945fc29bea5724364d9ec333b9d/Meetings/assets/OpenCloudOS%20Community%20CLA.CN.MD)、[English Version](https://github.com/OpenCloudOS/community/blob/38e2c4375cf82c34e4e7c47752a8140935fc2843/Meetings/assets/OpenCloudOS%20Community%20CLA.EN.MD))，贡献者可以找到想参与的项目或兴趣小组，开始自己的社区贡献之旅！社区贡献的方式多种多样。
+在签署了CLA协议([中文版](./Meetings/assets/OpenCloudOS%20Community%20CLA.CN.MD)、[English Version](https://github.com/OpenCloudOS/community/blob/38e2c4375cf82c34e4e7c47752a8140935fc2843/Meetings/assets/OpenCloudOS%20Community%20CLA.EN.MD))，贡献者可以找到想参与的项目或兴趣小组，开始自己的社区贡献之旅！社区贡献的方式多种多样。
 
 ##### 提交和处理Issue
 
