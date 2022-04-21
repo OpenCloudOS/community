@@ -65,7 +65,7 @@ OpenCloudOS 社区按照一致性原则，设立A/B/C/特殊赞助会员以征�
 ### 3.1 理事会职责
 理事会的重要职责是寻求赞助以支持社区及其各类项目、活动的开展，包括
 - 和TOC一起共同决定OpenCloudOS的整体项目范围。
-- 制定和行使和OpenCLoudOS相关的品牌、版权等策略
+- 制定和行使和OpenCloudOS相关的品牌、版权等策略
 - 指导社区官宣，包括布道、活动、生态建设等等
 - 在恰当时候建立和执行品牌符合性计划
 - 监督社区运营的各项活动
@@ -85,7 +85,7 @@ OpenCloudOS 社区按照一致性原则，设立A/B/C/特殊赞助会员以征�
 
 ## 4 技术监督委员会 TOC， Technical Oversight Committee
 
-OpenCloudOS社区最高技术决策机构。
+技术监督委员会（TOC）是OpenCloudOS社区最高技术决策机构。
 - TOC可以设立项目管理委员会（PMC，Project Management Council)代为TOC行使发起、管理和协调社区内独立运行项目的权力。
 - TOC可以设立兴趣小组协调委员会(SIGCC, Special Interests Group Coordination Council)代为TOC行使发起、管理和协调社区内特定范围工作的权力。
 - TOC可以设立专项工作组（WG，Working Group），就特定题目开展研究，展开工作。
