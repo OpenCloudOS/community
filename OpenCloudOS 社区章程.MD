@@ -83,7 +83,7 @@ OpenCloudOS 社区按照一致性原则，设立A/B/C/特殊赞助会员以征�
 - 副理事长代表理事长在指定领域开展工作。
 - 秘书长负责日常协调和组织工作。
 
-## 4 技术监督委员会 TOC， Technical Oversight Committee
+## 5 技术监督委员会 TOC， Technical Oversight Committee
 
 技术监督委员会（TOC）是OpenCloudOS社区最高技术决策机构。
 - TOC可以设立项目管理委员会（PMC，Project Management Council)代为TOC行使发起、管理和协调社区内独立运行项目的权力。
