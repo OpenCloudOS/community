@@ -1,4 +1,4 @@
-# OpenCloudOS 社区章程（草案讨论稿）
+# OpenCloudOS 社区章程
 
 ## 1 社区愿景、使命和价值 Vision, Mission and Values
 
@@ -292,7 +292,7 @@ OpenCloudOS 社区成员和参与者不得以任何形式讨论或交换有关�
 2. 尊重所有商标所有人的权利，包括任何品牌和商标使用指南。
 
 ## 13 知识产权政策 IPR, Intellectual Property Right Policy
-合作者承认所有新贡献的版权将作为独立的作者作品由版权所有者保留，并且不需要贡献者或版权所有者将版权分配给项目。
+知识产权许可事宜遵照相关协议执行
 
 
 ## 14 章程修正条款 Amendments
